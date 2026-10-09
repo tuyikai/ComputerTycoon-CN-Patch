@@ -4,10 +4,10 @@
 
 > 本项目为玩家自制的非官方汉化，与开发商 Progorion 无关。请支持正版。
 
-[![下载最新版](https://img.shields.io/github/v/release/YOUR_GITHUB_ID/ComputerTycoon-zh?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/YOUR_GITHUB_ID/ComputerTycoon-zh/releases/latest)
-![下载次数](https://img.shields.io/github/downloads/YOUR_GITHUB_ID/ComputerTycoon-zh/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=for-the-badge)
+[![下载最新版](https://img.shields.io/github/v/release/YOUR_GITHUB_ID/ComputerTycoon-zh?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)
 
-**下载**：[最新版本页面](https://github.com/YOUR_GITHUB_ID/ComputerTycoon-zh/releases/latest)｜[直接下载 zip](https://github.com/YOUR_GITHUB_ID/ComputerTycoon-zh/releases/latest/download/ComputerTycoon-zh.zip)
+
+**下载**：[最新版本页面](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)｜[直接下载 zip](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest/download/ComputerTycoon-zh.zip)
 
 ![主菜单](docs/screenshots/main_menu.png)
 ![游戏内界面](docs/screenshots/in_game.png)
