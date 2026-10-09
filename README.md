@@ -5,7 +5,6 @@
 > 本项目为玩家自制的非官方汉化，与开发商 Progorion 无关。请支持正版。
 
 [![下载最新版](https://img.shields.io/github/v/release/tuyikai/ComputerTycoon-CN-Patch?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)
-![下载次数](https://img.shields.io/github/downloads/tuyikai/ComputerTycoon-CN-Patch/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=for-the-badge)
 
 **下载**：[最新版本页面](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)｜[直接下载 v1.0.0 汉化包（38 MB）](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/download/v1.0.0/ComputerTycoon-zh-v1.0.0.zip)
 
