@@ -4,13 +4,13 @@
 
 > 本项目为玩家自制的非官方汉化，与开发商 Progorion 无关。请支持正版。
 
-[![下载最新版](https://img.shields.io/github/v/release/YOUR_GITHUB_ID/ComputerTycoon-zh?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)
+[![下载最新版](https://img.shields.io/github/v/release/tuyikai/ComputerTycoon-CN-Patch?label=%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88&style=for-the-badge&color=2ea44f)](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)
+![下载次数](https://img.shields.io/github/downloads/tuyikai/ComputerTycoon-CN-Patch/total?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&style=for-the-badge)
 
+**下载**：[最新版本页面](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)｜[直接下载 v1.0.0 汉化包（38 MB）](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/download/v1.0.0/ComputerTycoon-zh-v1.0.0.zip)
 
-**下载**：[最新版本页面](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest)｜[直接下载 zip](https://github.com/tuyikai/ComputerTycoon-CN-Patch/releases/latest/download/ComputerTycoon-zh.zip)
-
-![主菜单](docs/screenshots/main_menu.png)
-![游戏内界面](docs/screenshots/in_game.png)
+![主菜单](docs/screenshots/main_menu.jpg)
+![游戏内界面](docs/screenshots/in_game.jpg)
 
 ## 目录
 
@@ -36,7 +36,7 @@
 
 **系统要求**：Windows 10 或 11（64 位），Steam 正版 Computer Tycoon。
 
-1. 到本仓库的 [Releases](../../releases) 页面下载 `ComputerTycoon-zh.zip`（在页面的 Assets 里），或直接点上方的「直接下载 zip」。
+1. 到本仓库的 [Releases](../../releases) 页面下载 `ComputerTycoon-zh-v1.0.0.zip`（在页面的 Assets 里），或直接点上方的「直接下载」链接。**不要**下载 Source code，那是源码，不是汉化包。
 2. 在 Steam 库中右键 Computer Tycoon，选择「管理」，再选「浏览本地文件」，打开游戏文件夹。
 3. 把压缩包里的**所有内容**直接解压到游戏文件夹（与 `Computer Tycoon.exe` 同一层），遇到同名文件选择「替换」。
 4. 从 Steam 正常启动游戏。
