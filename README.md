@@ -1,6 +1,6 @@
 # Computer Tycoon 简体中文汉化补丁（非官方）
 
-为 Steam 游戏 [Computer Tycoon](https://store.steampowered.com/search/?term=Computer%20Tycoon)（Progorion LLC 开发）制作的免费简体中文汉化。解压即用，不修改任何游戏原始文件，删除即可恢复原版。
+为 Steam 游戏 [Computer Tycoon](https://store.steampowered.com/app/686680/Computer_Tycoon/)（Progorion LLC 开发）制作的免费简体中文汉化。解压即用，不修改任何游戏原始文件，删除即可恢复原版。
 
 > 本项目为玩家自制的非官方汉化，与开发商 Progorion 无关。请支持正版。
 
